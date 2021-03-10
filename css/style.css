@@ -267,7 +267,9 @@ footer{
     border-bottom: 1px solid #ececec;
   }
   .Cglown {
-    background-color: #2f303a;
+    background-image: url(./aonj/Img.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
     text-transform: uppercase;
     size: 44px;
     height: 600px;
@@ -536,3 +538,5 @@ footer{
   .hover{
    margin-right: 0%;
   }
+
+  
