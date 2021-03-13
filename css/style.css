@@ -537,6 +537,31 @@ footer{
   
   .hover{
    margin-right: 0%;
+   width: ;
   }
 
+  .sinkonwert{
+    border: none;
+    margin: auto;
+    border-radius: 0%;
+  }
+  
+ .fejs{
+   border-radius: 55px;
+   background-color: white
+   
+}
+
+ .fejs:hover{
+  background-color:#2196F3;
+
+}
+  .fejsbok{
+    Width: 30px;
+    Height: 30px;
+    fill: #AFB1B8;
+    
+
+    
+}
   
