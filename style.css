@@ -462,29 +462,15 @@ margin-top: -50px;
     background-color: #a12121;
 }
 
-/*swg*/
-.ikonka
-{
-    left: 65.75%;
-    right: 33.25%;
-    top: 1.81%;
-    bottom: 97.55%;
-
+.button{
+    border: none;
 }
 
-.aS{
-    background-image: url(http://www.w3.org/2000/svg);
-}
 
-.Group{
-    display: flex;
-    justify-content: space-between;
+.button-icon{
+    width: 100px;
+    height: 100px;
 }
-
-.gro{
-    margin-left: 255px;
-}
-
 
 
 
