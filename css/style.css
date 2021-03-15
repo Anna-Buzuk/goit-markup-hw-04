@@ -220,6 +220,7 @@ footer{
     color: black;
     margin-right: 50px;
     text-decoration: none;
+    font-size: 14px;
   }
    .blackportfolio{
     font-weight: 500;
@@ -544,7 +545,7 @@ footer{
     margin-right: auto;
     box-sizing: border-box;
     height: 80px;
-    margin: auto;
+    margin: 0 auto;
 }
   .cont{
     border: 1px solid #ECECEC;
